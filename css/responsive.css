@@ -1,0 +1,1439 @@
+@media (min-width:320px) and (max-width:576px){
+
+    
+    /* ======================================== nav start ================================== */
+    #navigation .navbar-nav {
+        gap: 0px;
+    }
+    #navigation .nav_li {
+        font-size: 18px;
+        line-height: 100%;
+        font-weight: 600;
+        background: aliceblue;
+        border-bottom: 3px solid white;
+    }
+    #navigation .nav_button {
+        padding: 7px 6px ;
+        font-size: 18px;
+        color: #ffffff;
+        background: #5f3beec4;
+    }
+    #navigation .nav_button:hover{
+        background: #ffffff;
+        color: #5f3beec4;
+    }
+
+    /* ======================================== nav end ================================== */
+
+    /* ======================================== hero start ================================== */
+
+    #hero .text .hero_h5 {
+        line-height: 140%;
+        font-size: 16px;
+        margin: 50px 0px 10px 0px;
+
+    }
+    #hero .text .heading {
+        font-size: 40px;
+    }
+    #hero .text .para {
+        font-size: 15px;
+        line-height: 140%;
+        margin: 21px 0px 20px 0px;
+        width: 75%;
+    }
+    #hero .ban_button {
+        font-size: 15px;
+        padding: 7px 9px;
+    }
+    #hero .banner1 {
+        padding-top: 20px;
+        padding-bottom: 31px;
+    }
+    /* ======================================== hero end ================================== */
+
+    /* ======================================== skill start ================================== */
+    #skill .text .text_h5 {
+        line-height: 140%;
+        font-size: 15px;
+        margin: 20px 0px 0px 0px;
+    }
+    #skill .text .text_h2 {
+        font-size: 35px;
+    }
+    #skill .skill_prod .img {
+        height: 50px;
+        width: 50px;
+    }
+    #skill .skill_prod .img img {
+        padding: 8px;
+    }
+    #skill .skill_prod {
+        padding: 16px;
+        margin-bottom: 10px;
+    }
+    #skill .card_h5 {
+        font-size: 27px;
+        margin: 8px 0px 15px 0px ;
+    }
+    #skill .card_p {
+        font-size: 15px;
+    }
+    #skill .container .skill-item {
+        margin: 20px 0px 0px 0px;
+    }
+    /* ======================================== skill end ================================== */
+
+    /* =========================================about start================================ */
+    #about .img_me {
+        padding-right: 0px;
+        margin:20px 0 20px 0;
+    }
+    #about .about_text {
+        margin:0px;
+        padding:0 12px 0 12px ;
+    }
+    #about .about_h5 {
+        font-size: 15px;
+        line-height: 140%;
+    }
+    #about .about_h2 {
+        font-size: 35px;
+    }
+    #about .about_p {
+        font-size: 16px;
+        margin-top: 0px;
+        line-height: 140%;
+    }
+    /* =========================================about end======================================== */
+
+
+    /* ======================================= portfolio start =================================== */
+
+    #Portfolio .port_row {
+        margin: 21px 0px 25px 0px;
+    }
+    #Portfolio .port_h5 {
+        font-size: 15px;
+        line-height: 140%;
+    }
+    #Portfolio .port_h2 {
+        font-size: 35px;
+        margin: 0;
+
+    }
+    #Portfolio .about_a {
+        padding: 8px;
+        font-size: 12px;
+    }
+    #Portfolio .portfolio_i{
+        margin: 0px;
+    }
+    #Portfolio .port_item {
+        margin-bottom: 10px;
+        width: auto;
+    }
+    #Portfolio .card-body {
+        padding: 20px ;
+    }
+    #Portfolio .port_title {
+        font-size: 27px ;
+        margin: 0px 0px 0px 0px;
+    }
+    #Portfolio .port_txt {
+        font-size: 15px ;
+    }
+    #Portfolio .port_a {
+        font-size: 15px  ;
+        margin-top: 0px ;
+    }
+    #Portfolio .portfolio_item {
+        margin:20px;
+    }
+      /* ======================================= portfolio end =================================== */
+
+    /* ======================================= feedback start =================================== */
+    #feedback .feed_title h5 {
+        font-size: 15px ;
+        line-height: 140% ;
+        padding: 31px 0 0 ;
+        margin: 0;
+    }
+    #feedback .feed_title h2 {
+        font-size: 35px ;
+        padding: 0px 0px 10px 0px ;
+    }
+    #feedback .feed_item {
+        padding: 15px ;
+    }
+    #feedback .feed_star {
+        width: 180px;
+        padding-bottom: 20px ;
+    }
+    #feedback .feed_star img{
+        width: 100% ;
+    }
+    #feedback .feed_p {
+        font-size: 15px ;
+        padding-bottom: 0px ;
+    }
+    #feedback .clint_img {
+        width: 2.6rem ;
+        height: 2.6rem ;
+    }
+    #feedback .clint_info h5 {
+        font-size: 15px ;
+        margin: 0;
+    }
+    #feedback .clint_info p {
+        font-size: 15px ;
+        margin: 0;
+    }
+    #feedback .feed {
+        padding-bottom: 20px;
+        gap: 20px;
+    }
+    /* ======================================= feedback end =================================== */
+
+    /* ======================================= contact start =================================== */
+    #contact .cont_title {
+        margin: 26px 0 40px 0 ;
+    }
+    #contact .cont_title h5 {
+        font-size: 15px ;
+        line-height: 140% ;
+        margin: 0;
+    }
+    #contact .cont_title h2 {
+        font-size: 35px;
+        margin: 0px 0 10px 0;
+    }
+    #contact .cont_title h6 {
+        font-size: 15px;
+    }
+    #contact .split_input label {
+        font-size: 16px;
+    }
+    #contact .split_input input {
+        height: 42px;
+        margin: 0px 0 9px 0;
+    }
+    #contact .split_input select {
+        height: 42px;
+        margin: 0px 0 8px 0;
+    }
+    #contact .split_input textarea {
+        padding: 1px;
+        margin: 0px 0 20px 0;
+    }
+    #contact .chec_label {
+        font-size: 15px;
+        margin-left: 0;
+    }
+    #contact .check_box {
+        height: 16px;
+        width: 16px;
+    }
+    #contact .contact_button {
+        margin: 15px 0 50px 0;
+        font-size: 15px;
+        padding: 7px 44px;
+    }
+    /* ======================================= contact end =================================== */
+
+    /* ======================================= footer start =================================== */
+    #footer .footer-li {
+        font-size: 15px;
+    }
+    #footer .tabs .w-auto {
+        width: 100% !important;
+    }
+    #footer .tabs .footer_ul {
+        gap: 0px;
+        margin: 15px 0 10px 0 !important;
+        width: 100%;
+    }
+    #footer .footer_top {
+        padding: 26px 0 24px 0;
+    }
+    #footer .icons {
+        font-size: 13px;
+        gap: 4px;
+    }
+    #footer .footer_bottom p {
+        font-size: 11px;
+        padding-top: 6px;
+        width: 100%;
+    }
+    #footer .footer_bottom a {
+        font-size: 10px;
+        margin-right:21px;
+        margin-left: 0px;
+    }
+    .col-12{
+        width: 100% !important;
+    }
+    #footer .footer_bottom {
+        border-top: 1px solid #282938;
+        padding-bottom: 15px;
+    }
+    /* ======================================= footer end =================================== */
+
+
+}
+@media (min-width:576px) and (max-width:768px){
+
+    
+    /* ======================================== nav start ================================== */
+    #navigation .navbar-nav {
+        gap: 0px;
+    }
+    #navigation .nav_li {
+        font-size: 18px;
+        line-height: 100%;
+        font-weight: 600;
+        background: aliceblue;
+        border-bottom: 3px solid white;
+    }
+    #navigation .nav_button {
+        padding: 7px 6px ;
+        font-size: 18px;
+        color: #ffffff;
+        background: #5f3beec4;
+    }
+    #navigation .nav_button:hover{
+        background: #ffffff;
+        color: #5f3beec4;
+    }
+
+    /* ======================================== nav end ================================== */
+
+    /* ======================================== hero start ================================== */
+
+    #hero .text .hero_h5 {
+        line-height: 140%;
+        font-size: 16px;
+        margin: 50px 0px 10px 0px;
+
+    }
+    #hero .text .heading {
+        font-size: 40px;
+    }
+    #hero .text .para {
+        font-size: 15px;
+        line-height: 140%;
+        margin: 21px 0px 20px 0px;
+        width: 75%;
+    }
+    #hero .ban_button {
+        font-size: 15px;
+        padding: 7px 9px;
+    }
+    #hero .banner1 {
+        padding-top: 20px;
+        padding-bottom: 31px;
+    }
+    /* ======================================== hero end ================================== */
+
+    /* ======================================== skill start ================================== */
+    #skill .text .text_h5 {
+        line-height: 140%;
+        font-size: 15px;
+        margin: 20px 0px 0px 0px;
+    }
+    #skill .text .text_h2 {
+        font-size: 35px;
+    }
+    #skill .skill_prod .img {
+        height: 50px;
+        width: 50px;
+    }
+    #skill .skill_prod .img img {
+        padding: 8px;
+    }
+    #skill .skill_prod {
+        padding: 16px;
+        margin-bottom: 10px;
+    }
+    #skill .card_h5 {
+        font-size: 27px;
+        margin: 8px 0px 15px 0px ;
+    }
+    #skill .card_p {
+        font-size: 15px;
+    }
+    #skill .container .skill-item {
+        margin: 20px 0px 0px 0px;
+    }
+    /* ======================================== skill end ================================== */
+
+    /* =========================================about start================================ */
+    #about .img_me {
+        padding-right: 0px;
+        margin:20px 0 20px 0;
+    }
+    #about .about_text {
+        margin:0px;
+        padding:0 12px 0 12px ;
+    }
+    #about .about_h5 {
+        font-size: 15px;
+        line-height: 140%;
+    }
+    #about .about_h2 {
+        font-size: 35px;
+    }
+    #about .about_p {
+        font-size: 16px;
+        margin-top: 0px;
+        line-height: 140%;
+    }
+    /* =========================================about end======================================== */
+
+
+    /* ======================================= portfolio start =================================== */
+
+    #Portfolio .port_row {
+        margin: 21px 0px 25px 0px;
+    }
+    #Portfolio .port_h5 {
+        font-size: 15px;
+        line-height: 140%;
+    }
+    #Portfolio .port_h2 {
+        font-size: 35px;
+        margin: 0;
+
+    }
+    #Portfolio .about_a {
+        padding: 8px;
+        font-size: 12px;
+    }
+    #Portfolio .portfolio_i{
+        margin: 0px;
+    }
+    #Portfolio .port_item {
+        margin-bottom: 10px;
+        width: auto;
+    }
+    #Portfolio .card-body {
+        padding: 20px ;
+    }
+    #Portfolio .port_title {
+        font-size: 27px ;
+        margin: 0px 0px 0px 0px;
+    }
+    #Portfolio .port_txt {
+        font-size: 15px ;
+    }
+    #Portfolio .port_a {
+        font-size: 15px  ;
+        margin-top: 0px ;
+    }
+    #Portfolio .portfolio_item {
+        margin:20px;
+    }
+      /* ======================================= portfolio end =================================== */
+
+    /* ======================================= feedback start =================================== */
+    #feedback .feed_title h5 {
+        font-size: 15px ;
+        line-height: 140% ;
+        padding: 31px 0 0 ;
+        margin: 0;
+    }
+    #feedback .feed_title h2 {
+        font-size: 35px ;
+        padding: 0px 0px 10px 0px ;
+    }
+    #feedback .feed_item {
+        padding: 15px ;
+    }
+    #feedback .feed_star {
+        width: 180px;
+        padding-bottom: 20px ;
+    }
+    #feedback .feed_star img{
+        width: 100% ;
+    }
+    #feedback .feed_p {
+        font-size: 15px ;
+        padding-bottom: 0px ;
+    }
+    #feedback .clint_img {
+        width: 2.6rem ;
+        height: 2.6rem ;
+    }
+    #feedback .clint_info h5 {
+        font-size: 15px ;
+        margin: 0;
+    }
+    #feedback .clint_info p {
+        font-size: 15px ;
+        margin: 0;
+    }
+    #feedback .feed {
+        padding-bottom: 20px;
+        gap: 20px;
+    }
+    /* ======================================= feedback end =================================== */
+
+    /* ======================================= contact start =================================== */
+    #contact .cont_title {
+        margin: 26px 0 40px 0 ;
+    }
+    #contact .cont_title h5 {
+        font-size: 15px ;
+        line-height: 140% ;
+        margin: 0;
+    }
+    #contact .cont_title h2 {
+        font-size: 35px;
+        margin: 0px 0 10px 0;
+    }
+    #contact .cont_title h6 {
+        font-size: 15px;
+    }
+    #contact .split_input label {
+        font-size: 16px;
+    }
+    #contact .split_input input {
+        height: 42px;
+        margin: 0px 0 9px 0;
+    }
+    #contact .split_input select {
+        height: 42px;
+        margin: 0px 0 8px 0;
+    }
+    #contact .split_input textarea {
+        padding: 1px;
+        margin: 0px 0 20px 0;
+    }
+    #contact .chec_label {
+        font-size: 15px;
+        margin-left: 0;
+    }
+    #contact .check_box {
+        height: 16px;
+        width: 16px;
+    }
+    #contact .contact_button {
+        margin: 15px 0 50px 0;
+        font-size: 15px;
+        padding: 7px 44px;
+    }
+    /* ======================================= contact end =================================== */
+
+    /* ======================================= footer start =================================== */
+    #footer .footer-li {
+        font-size: 15px;
+    }
+    #footer .footer_ul {
+        gap: 30px;
+        margin: 15px 0 10px 0 !important;
+        width: 100%;
+    }
+    #footer .footer_top {
+        padding: 26px 0 24px 0;
+    }
+    #footer .icons {
+        font-size: 13px;
+        gap: 4px;
+        width: 100%;
+    }
+    #footer .footer_bottom p {
+        font-size: 11px;
+        padding-top: 6px;
+        width: 100%;
+    }
+    #footer .footer_bottom a {
+        font-size: 10px;
+        margin-right:21px;
+        margin-left: 0px;
+    }
+    #footer .footer_bottom {
+        border-top: 1px solid #282938;
+        padding-bottom: 15px;
+    }
+    /* ======================================= footer end =================================== */
+
+
+}
+@media (min-width:768px) and (max-width:991px){
+
+    
+    /* ======================================== nav start ================================== */
+    #navigation .navbar-nav {
+        gap: 0px;
+    }
+    #navigation .nav_li {
+        font-size: 18px;
+        line-height: 100%;
+        font-weight: 600;
+        background: aliceblue;
+        border-bottom: 3px solid white;
+    }
+    #navigation .nav_button {
+        padding: 7px 6px ;
+        font-size: 18px;
+        color: #ffffff;
+        background: #5f3beec4;
+    }
+    #navigation .nav_button:hover{
+        background: #ffffff;
+        color: #5f3beec4;
+    }
+
+    /* ======================================== nav end ================================== */
+
+    /* ======================================== hero start ================================== */
+
+    #hero .text .hero_h5 {
+        line-height: 140%;
+        font-size: 16px;
+        margin: 50px 0px 10px 0px;
+
+    }
+    #hero .text .heading {
+        font-size: 40px;
+    }
+    #hero .text .para {
+        font-size: 15px;
+        line-height: 140%;
+        margin: 21px 0px 20px 0px;
+        width: 75%;
+    }
+    #hero .ban_button {
+        font-size: 15px;
+        padding: 7px 9px;
+    }
+    #hero .banner1 {
+        padding-top: 20px;
+        padding-bottom: 31px;
+    }
+    /* ======================================== hero end ================================== */
+
+    /* ======================================== skill start ================================== */
+    #skill .text .text_h5 {
+        line-height: 140%;
+        font-size: 15px;
+        margin: 20px 0px 0px 0px;
+    }
+    #skill .text .text_h2 {
+        font-size: 35px;
+    }
+    #skill .skill_prod .img {
+        height: 50px;
+        width: 50px;
+    }
+    #skill .skill_prod .img img {
+        padding: 8px;
+    }
+    #skill .skill_prod {
+        padding: 16px;
+        margin-bottom: 10px;
+    }
+    #skill .card_h5 {
+        font-size: 27px;
+        margin: 8px 0px 15px 0px ;
+    }
+    #skill .card_p {
+        font-size: 15px;
+    }
+    #skill .container .skill-item {
+        margin: 20px 0px 0px 0px;
+    }
+    /* ======================================== skill end ================================== */
+
+    /* =========================================about start================================ */
+    #about .img_me {
+        padding-right: 0px;
+        margin:20px 0 20px 0;
+    }
+    #about .about_text {
+        margin:115px 0px 0px 0px;
+        padding:0 12px 0 12px ;
+    }
+    #about .about_h5 {
+        font-size: 15px;
+        line-height: 140%;
+    }
+    #about .about_h2 {
+        font-size: 35px;
+    }
+    #about .about_p {
+        font-size: 16px;
+        margin-top: 0px;
+        line-height: 140%;
+    }
+    /* =========================================about end======================================== */
+
+
+    /* ======================================= portfolio start =================================== */
+
+    #Portfolio .port_row {
+        margin: 21px 0px 25px 0px;
+    }
+    #Portfolio .port_h5 {
+        font-size: 15px;
+        line-height: 140%;
+    }
+    #Portfolio .port_h2 {
+        font-size: 35px;
+        margin: 0;
+
+    }
+    #Portfolio .about_a {
+        padding: 8px;
+        font-size: 12px;
+    }
+    #Portfolio .portfolio_i{
+        margin: 0px;
+    }
+    #Portfolio .port_item {
+        margin-bottom: 10px;
+        width: 100%;
+    }
+    #Portfolio .card-body {
+        padding: 20px ;
+    }
+    #Portfolio .port_title {
+        font-size: 27px ;
+        margin: 0px 0px 0px 0px;
+    }
+    #Portfolio .port_txt {
+        font-size: 15px ;
+    }
+    #Portfolio .port_a {
+        font-size: 15px  ;
+        margin-top: 0px ;
+    }
+    #Portfolio .portfolio_item {
+        margin:20px;
+    }
+      /* ======================================= portfolio end =================================== */
+
+    /* ======================================= feedback start =================================== */
+    #feedback .feed_title h5 {
+        font-size: 15px ;
+        line-height: 140% ;
+        padding: 31px 0 0 ;
+        margin: 0;
+    }
+    #feedback .feed_title h2 {
+        font-size: 35px ;
+        padding: 0px 0px 10px 0px ;
+    }
+    #feedback .feed_item {
+        padding: 15px ;
+        gap: 10px;
+        width: 14.7rem;
+    }
+    #feedback .feed_star {
+        width: 180px;
+        padding-bottom: 20px ;
+    }
+    #feedback .feed_star img{
+        width: 100% ;
+    }
+    #feedback .feed_p {
+        font-size: 15px ;
+        padding-bottom: 0px ;
+    }
+    #feedback .clint_img {
+        width: 2.6rem ;
+        height: 2.6rem ;
+    }
+    .clint_info{
+        width: 190px;
+    }
+    #feedback .clint_info h5 {
+        font-size: 15px ;
+        margin: 0;
+        width: auto;
+    }
+    #feedback .clint_info p {
+        font-size: 15px ;
+        margin: 0;
+        width: auto;
+    }
+    #feedback .feed {
+        padding-bottom: 20px;
+        gap: 0px;
+    }
+    /* ======================================= feedback end =================================== */
+
+    /* ======================================= contact start =================================== */
+    #contact .cont_title {
+        margin: 26px 0 40px 0 ;
+    }
+    #contact .cont_title h5 {
+        font-size: 15px ;
+        line-height: 140% ;
+        margin: 0;
+    }
+    #contact .cont_title h2 {
+        font-size: 35px;
+        margin: 0px 0 10px 0;
+    }
+    #contact .cont_title h6 {
+        font-size: 15px;
+    }
+    #contact .split_input label {
+        font-size: 16px;
+    }
+    #contact .split_input input {
+        height: 42px;
+        margin: 0px 0 9px 0;
+    }
+    #contact .split_input select {
+        height: 42px;
+        margin: 0px 0 8px 0;
+    }
+    #contact .split_input textarea {
+        padding: 1px;
+        margin: 0px 0 20px 0;
+    }
+    #contact .chec_label {
+        font-size: 15px;
+        margin-left: 0;
+    }
+    #contact .check_box {
+        height: 16px;
+        width: 16px;
+    }
+    #contact .contact_button {
+        margin: 15px 0 50px 0;
+        font-size: 15px;
+        padding: 7px 44px;
+    }
+    /* ======================================= contact end =================================== */
+
+    /* ======================================= footer start =================================== */
+    #footer .footer-li {
+        font-size: 15px;
+    }
+    #footer .footer_ul {
+        gap: 30px;
+        margin: 15px 0 10px 0 !important;
+        width: 100%;
+    }
+    #footer .footer_top {
+        padding: 26px 0 24px 0;
+    }
+    #footer .icons {
+        font-size: 13px;
+        gap: 4px;
+        width: 100%;
+    }
+    #footer .footer_bottom p {
+        font-size: 11px;
+        padding-top: 6px;
+        width: 100%;
+    }
+    #footer .footer_bottom a {
+        font-size: 10px;
+        margin-right:21px;
+        margin-left: 0px;
+    }
+    #footer .footer_bottom {
+        border-top: 1px solid #282938;
+        padding-bottom: 15px;
+    }
+    /* ======================================= footer end =================================== */
+
+
+}
+@media (min-width:991px) and (max-width:1200px){
+
+    
+    /* ======================================== nav start ================================== */
+    #navigation .navbar-nav {
+        gap: 20px;
+    }
+    #navigation .nav_li {
+        font-size: 16px;
+        font-weight: 500;
+    }
+    .nav_button {
+        padding: 10px 23px;
+        font-size: 17px;
+    }
+    /* ======================================== nav end ================================== */
+
+    /* ======================================== hero start ================================== */
+
+    #hero .text .hero_h5 {
+        line-height: 140%;
+        font-size: 16px;
+        margin: 115px 0px 10px 0px;
+
+    }
+    #hero .text .heading {
+        font-size: 40px;
+    }
+    #hero .text .para {
+        font-size: 15px;
+        line-height: 140%;
+        margin: 21px 0px 20px 0px;
+    }
+    #hero .ban_button {
+        font-size: 15px;
+        padding: 7px 9px;
+    }
+    #hero .banner1 {
+        padding-top: 20px;
+        padding-bottom: 31px;
+    }
+    /* ======================================== hero end ================================== */
+
+    /* ======================================== skill start ================================== */
+    #skill .text .text_h5 {
+        line-height: 140%;
+        font-size: 15px;
+        margin: 20px 0px 0px 0px;
+    }
+    #skill .text .text_h2 {
+        font-size: 35px;
+    }
+    #skill .skill_prod .img {
+        height: 50px;
+        width: 50px;
+    }
+    #skill .skill_prod .img img {
+        padding: 8px;
+    }
+    #skill .skill_prod {
+        padding: 16px;
+        margin-bottom: 10px;
+    }
+    #skill .card_h5 {
+        font-size: 27px;
+        margin: 8px 0px 15px 0px ;
+    }
+    #skill .card_p {
+        font-size: 15px;
+    }
+    #skill .container .skill-item {
+        margin: 20px 0px 50px 0px;
+    }
+    /* ======================================== skill end ================================== */
+
+    /* =========================================about start================================ */
+    #about .img_me {
+        padding-right: 0px;
+        margin:20px 0 20px 0;
+    }
+    #about .about_text {
+        margin:0px;
+        padding:180px 12px 0 12px ;
+    }
+    #about .about_h5 {
+        font-size: 15px;
+        line-height: 140%;
+    }
+    #about .about_h2 {
+        font-size: 35px;
+    }
+    #about .about_p {
+        font-size: 16px;
+        margin-top: 0px;
+        line-height: 140%;
+    }
+    /* =========================================about end======================================== */
+
+
+    /* ======================================= portfolio start =================================== */
+
+    #Portfolio .port_row {
+        margin: 100px 0px 50px 0px;
+    }
+    #Portfolio .port_h5 {
+        font-size: 15px;
+        line-height: 140%;
+    }
+    #Portfolio .port_h2 {
+        font-size: 40px;
+        margin: 0;
+
+    }
+    #Portfolio .about_a {
+        padding: 13px;
+        font-size: 15px;
+    }
+    #Portfolio .portfolio_i{
+        margin: 0px;
+    }
+    .port_item{
+        width: 33.333%;
+        border:none;
+        border-radius:0px;
+    }
+    .port_title{
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 140%;
+        color: #282938;
+        margin: 32px 0px 10px 0px;
+    }
+    .port_txt{
+        font-size: 21px;
+        font-weight: 400;
+        line-height: 150%;
+        color: #1C1E53;
+    }
+    .port_a{
+        font-size: 18px;
+        font-weight: 600;
+        color: #000000;
+        line-height: 150%;
+        padding-bottom: 10px;
+        border-bottom: 1px solid #5E3BEE;
+        margin-top: 32px;
+    
+    }
+    #Portfolio .card-body{
+        padding: 32px;
+    }
+    .port_i{
+        margin-left: 16px;
+    }
+    .portfolio_item{
+        margin-bottom: 9.33rem;
+        gap: 0px;
+    }
+    #Portfolio .container {
+        padding: 0 12px;
+    }
+      /* ======================================= portfolio end =================================== */
+
+    /* ======================================= feedback start =================================== */
+    #feedback .feed_title h5 {
+        font-size: 15px ;
+        line-height: 140% ;
+        padding: 31px 0 0 ;
+        margin: 0;
+    }
+    #feedback .feed_title h2 {
+        font-size: 35px ;
+        padding: 0px 0px 10px 0px ;
+    }
+    #feedback .container{
+        padding: 0 12px;
+    }
+    #feedback .feed_item {
+        padding: 15px;
+        width: 33.333%;
+    }
+    #feedback .feed_star {
+        width: 180px;
+        padding-bottom: 20px ;
+    }
+    #feedback .feed_star img{
+        width: 100% ;
+    }
+    #feedback .feed_p {
+        font-size: 15px ;
+        padding-bottom: 0px ;
+    }
+    #feedback .clint_img {
+        width: 2.6rem ;
+        height: 2.6rem ;
+    }
+    .clint_info{
+        width: 200px;
+    }
+    #feedback .clint_info h5 {
+        font-size: 15px ;
+        margin: 0;
+    }
+    #feedback .clint_info p {
+        font-size: 15px ;
+        margin: 0;
+    }
+    #feedback .feed {
+        padding-bottom: 20px;
+        gap: 0px;
+    }
+    /* ======================================= feedback end =================================== */
+
+    /* ======================================= contact start =================================== */
+    #contact .cont_title {
+        margin: 26px 0 40px 0 ;
+    }
+    #contact .cont_title h5 {
+        font-size: 15px ;
+        line-height: 140% ;
+        margin: 0;
+    }
+    #contact .cont_title h2 {
+        font-size: 35px;
+        margin: 0px 0 10px 0;
+    }
+    #contact .cont_title h6 {
+        font-size: 15px;
+    }
+    #contact .split_input label {
+        font-size: 16px;
+    }
+    #contact .split_input input {
+        height: 42px;
+        margin: 0px 0 9px 0;
+    }
+    #contact .split_input select {
+        height: 42px;
+        margin: 0px 0 8px 0;
+    }
+    #contact .split_input textarea {
+        padding: 1px;
+        margin: 0px 0 20px 0;
+    }
+    #contact .chec_label {
+        font-size: 15px;
+        margin-left: 0;
+    }
+    #contact .check_box {
+        height: 16px;
+        width: 16px;
+    }
+    #contact .contact_button {
+        margin: 15px 0 50px 0;
+        font-size: 15px;
+        padding: 7px 44px;
+    }
+    /* ======================================= contact end =================================== */
+
+    /* ======================================= footer start =================================== */
+    #footer .footer-li {
+        font-size: 15px;
+    }
+    #footer .tabs .w-auto {
+        width: 100% !important;
+    }
+    #footer .tabs .footer_ul {
+        gap: 0px;
+        margin: 15px 0 10px 0 !important;
+        width: 100%;
+    }
+    #footer .footer_top {
+        padding: 26px 0 24px 0;
+    }
+    #footer .icons {
+        font-size: 13px;
+        gap: 4px;
+    }
+    #footer .footer_bottom p {
+        font-size: 11px;
+        padding-top: 6px;
+        width: 100%;
+    }
+    #footer .footer_bottom a {
+        font-size: 10px;
+        margin-right:21px;
+        margin-left: 0px;
+    }
+    #footer .footer_bottom {
+        border-top: 1px solid #282938;
+        padding-bottom: 15px;
+    }
+    /* ======================================= footer end =================================== */
+
+
+}
+@media (min-width:1200px) and (max-width:1400px){
+
+    
+    /* ======================================== nav start ================================== */
+    #navigation .navbar-nav {
+        gap: 20px;
+    }
+    #navigation .nav_li {
+        font-size: 16px;
+        font-weight: 500;
+    }
+    .nav_button {
+        padding: 10px 23px;
+        font-size: 17px;
+    }
+    /* ======================================== nav end ================================== */
+
+    /* ======================================== hero start ================================== */
+
+    #hero .text .hero_h5 {
+        line-height: 140%;
+        font-size: 16px;
+        margin: 115px 0px 10px 0px;
+
+    }
+    #hero .text .heading {
+        font-size: 40px;
+    }
+    #hero .text .para {
+        font-size: 15px;
+        line-height: 140%;
+        margin: 21px 0px 20px 0px;
+    }
+    #hero .ban_button {
+        font-size: 15px;
+        padding: 7px 9px;
+    }
+    #hero .banner1 {
+        padding-top: 20px;
+        padding-bottom: 31px;
+    }
+    /* ======================================== hero end ================================== */
+
+    /* ======================================== skill start ================================== */
+    #skill .text .text_h5 {
+        line-height: 140%;
+        font-size: 15px;
+        margin: 20px 0px 0px 0px;
+    }
+    #skill .text .text_h2 {
+        font-size: 35px;
+    }
+    #skill .skill_prod .img {
+        height: 50px;
+        width: 50px;
+    }
+    #skill .skill_prod .img img {
+        padding: 8px;
+    }
+    #skill .skill_prod {
+        padding: 16px;
+        margin-bottom: 10px;
+    }
+    #skill .card_h5 {
+        font-size: 27px;
+        margin: 8px 0px 15px 0px ;
+    }
+    #skill .card_p {
+        font-size: 15px;
+    }
+    #skill .container .skill-item {
+        margin: 20px 0px 50px 0px;
+    }
+    /* ======================================== skill end ================================== */
+
+    /* =========================================about start================================ */
+    #about .img_me {
+        padding-right: 0px;
+        margin:20px 0 20px 0;
+    }
+    #about .about_text {
+        margin:0px;
+        padding:180px 12px 0 12px ;
+    }
+    #about .about_h5 {
+        font-size: 15px;
+        line-height: 140%;
+    }
+    #about .about_h2 {
+        font-size: 35px;
+    }
+    #about .about_p {
+        font-size: 16px;
+        margin-top: 0px;
+        line-height: 140%;
+    }
+    /* =========================================about end======================================== */
+
+
+    /* ======================================= portfolio start =================================== */
+
+    #Portfolio .port_row {
+        margin: 100px 0px 50px 0px;
+    }
+    #Portfolio .port_h5 {
+        font-size: 15px;
+        line-height: 140%;
+    }
+    #Portfolio .port_h2 {
+        font-size: 40px;
+        margin: 0;
+
+    }
+    #Portfolio .about_a {
+        padding: 13px;
+        font-size: 15px;
+    }
+    #Portfolio .portfolio_i{
+        margin: 0px;
+    }
+    .port_item{
+        width: 33.333%;
+        border:none;
+        border-radius:0px;
+    }
+    .port_title{
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 140%;
+        color: #282938;
+        margin: 32px 0px 10px 0px;
+    }
+    .port_txt{
+        font-size: 21px;
+        font-weight: 400;
+        line-height: 150%;
+        color: #1C1E53;
+    }
+    .port_a{
+        font-size: 18px;
+        font-weight: 600;
+        color: #000000;
+        line-height: 150%;
+        padding-bottom: 10px;
+        border-bottom: 1px solid #5E3BEE;
+        margin-top: 32px;
+    
+    }
+    #Portfolio .card-body{
+        padding: 32px;
+    }
+    .port_i{
+        margin-left: 16px;
+    }
+    .portfolio_item{
+        margin-bottom: 9.33rem;
+        gap: 0px;
+    }
+    #Portfolio .container {
+        padding: 0 12px;
+    }
+      /* ======================================= portfolio end =================================== */
+
+    /* ======================================= feedback start =================================== */
+    #feedback .feed_title h5 {
+        font-size: 15px ;
+        line-height: 140% ;
+        padding: 31px 0 0 ;
+        margin: 0;
+    }
+    #feedback .feed_title h2 {
+        font-size: 35px ;
+        padding: 0px 0px 10px 0px ;
+    }
+    #feedback .container{
+        padding: 0 12px;
+    }
+    #feedback .feed_item {
+        padding: 15px;
+        width: 33.333%;
+    }
+    #feedback .feed_star {
+        width: 180px;
+        padding-bottom: 20px ;
+    }
+    #feedback .feed_star img{
+        width: 100% ;
+    }
+    #feedback .feed_p {
+        font-size: 15px ;
+        padding-bottom: 0px ;
+    }
+    #feedback .clint_img {
+        width: 2.6rem ;
+        height: 2.6rem ;
+    }
+    .clint_info{
+        width: 200px;
+    }
+    #feedback .clint_info h5 {
+        font-size: 15px ;
+        margin: 0;
+    }
+    #feedback .clint_info p {
+        font-size: 15px ;
+        margin: 0;
+    }
+    #feedback .feed {
+        padding-bottom: 20px;
+        gap: 0px;
+    }
+    /* ======================================= feedback end =================================== */
+
+    /* ======================================= contact start =================================== */
+    #contact .cont_title {
+        margin: 26px 0 40px 0 ;
+    }
+    #contact .cont_title h5 {
+        font-size: 15px ;
+        line-height: 140% ;
+        margin: 0;
+    }
+    #contact .cont_title h2 {
+        font-size: 35px;
+        margin: 0px 0 10px 0;
+    }
+    #contact .cont_title h6 {
+        font-size: 15px;
+    }
+    #contact .split_input label {
+        font-size: 16px;
+    }
+    #contact .split_input input {
+        height: 42px;
+        margin: 0px 0 9px 0;
+    }
+    #contact .split_input select {
+        height: 42px;
+        margin: 0px 0 8px 0;
+    }
+    #contact .split_input textarea {
+        padding: 1px;
+        margin: 0px 0 20px 0;
+    }
+    #contact .chec_label {
+        font-size: 15px;
+        margin-left: 0;
+    }
+    #contact .check_box {
+        height: 16px;
+        width: 16px;
+    }
+    #contact .contact_button {
+        margin: 15px 0 50px 0;
+        font-size: 15px;
+        padding: 7px 44px;
+    }
+    /* ======================================= contact end =================================== */
+
+    /* ======================================= footer start =================================== */
+    #footer .footer-li {
+        font-size: 15px;
+    }
+    #footer .tabs .w-auto {
+        width: 100% !important;
+    }
+    #footer .tabs .footer_ul {
+        gap: 0px;
+        margin: 15px 0 10px 0 !important;
+        width: 100%;
+    }
+    #footer .footer_top {
+        padding: 26px 0 24px 0;
+    }
+    #footer .icons {
+        font-size: 13px;
+        gap: 4px;
+    }
+    #footer .footer_bottom p {
+        font-size: 11px;
+        padding-top: 6px;
+        width: 100%;
+    }
+    #footer .footer_bottom a {
+        font-size: 10px;
+        margin-right:21px;
+        margin-left: 0px;
+    }
+    #footer .footer_bottom {
+        border-top: 1px solid #282938;
+        padding-bottom: 15px;
+    }
+    /* ======================================= footer end =================================== */
+
+
+}
+
